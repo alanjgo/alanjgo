@@ -2,4 +2,4 @@
 - 👀 I’m a young student in marketing who want to learn code.
 - ⚙️ Learning Javascript and Python
 - I will post my little side projects here
-- Would love to meet new developpers or fan of new technologies
+- Would love to meet new developpers and fan of new technologies
